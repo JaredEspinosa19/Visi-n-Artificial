@@ -1,4 +1,4 @@
-### Primera Evaluación - Visión Artificial
+# Primera Evaluación - Visión Artificial
 
 - Alumno: Espinosa Cruz Emilio Jared
 - Profesor: Octavio Sanchéz Garcia
@@ -7,7 +7,7 @@
 
 ---
 
-##Contenido
+## Contenido
 
 - Projecto Visual Studio
 - Reporte de desarrollo
